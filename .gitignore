@@ -1,0 +1,31 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and database files
+*.log
+*.sqlite3
+*.db
+
+# Virtual environment (excluding .venv)
+venv/
+env/
+*.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python packaging
+build/
+dist/
+*.egg-info/
