@@ -29,3 +29,6 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# Exclude shab_publications_xml folder
+shab_publications_xml/
